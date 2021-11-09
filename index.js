@@ -4,6 +4,10 @@ console.log('dari master')
 console.log('dari master')
 console.log('dari master')
 
+console.log("AG-3");
+console.log("AG-3");
+console.log("AG-3");
+
 console.log('AG-1')
 console.log('AG-1')
 console.log('AG-1')
@@ -62,3 +66,4 @@ console.log('AG-MASTER')
 console.log('AG-MASTER')
 console.log('AG-MASTER')
 console.log('AG-MASTER')
+
